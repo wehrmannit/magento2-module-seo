@@ -2,7 +2,7 @@
   "name": "staempfli/magento2-module-seo",
   "description": "Magento 2 Seo Module",
   "require": {
-    "php": "^7.0|^7.1|^7.2",
+    "php": "^7.0|^7.1|^7.2|^8.2",
     "magento/module-store": ">=101.1.0",
     "magento/module-config": ">=101.1.0",
     "magento/module-catalog": ">=101.1.0",
